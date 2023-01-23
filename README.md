@@ -6,7 +6,7 @@ Aplicação desenvolvida para treino utlizando worker-threads + piscina para pro
 
 Instale os pacotes necessarios.
 
-  npm install
+    npm install
 
 Para utilizar o script do teste de carga o [npm](https://www.npmjs.com/package/autocannon) deve ser instalado globalmente.
 
