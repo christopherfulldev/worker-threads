@@ -24,6 +24,7 @@ async function handler(request, response) {
 			image: img,
 			background,
 		});
+		
 		response.writeHead(200, {
 			'Content-Type': 'image/jpeg',
 			'Content-Disposition': 'inline; filename=image.jpg',
