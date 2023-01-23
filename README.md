@@ -13,7 +13,7 @@ Para utilizar o script do teste de carga o [npm](https://www.npmjs.com/package/a
 
 ## Rodando
 
-  npm start 
+    npm start 
 
 - É possivel acessar no navegador e substituir as query params por qualquer url que retorne uma imagem.
 
